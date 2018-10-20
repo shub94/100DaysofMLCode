@@ -4,4 +4,4 @@
 Logistic Regression Code from Scratch  [View Here](https://github.com/pooja2512/100Days-ofMLCode/blob/master/Logistic-Regression/Logistic%20Regression%20from%20Scratch.ipynb)
 
 ## Day 2 : 20-10-2018
-Linear Regression Code From Scratch
+Linear Regression Code From Scratch [View Here](https://github.com/pooja2512/100Days-ofMLCode/blob/master/Linear%20Regression/Linear%20Regression.ipynb)
