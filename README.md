@@ -8,5 +8,5 @@ Linear Regression Code From Scratch [View Here](https://github.com/pooja2512/100
 
 ## Day 3 : 21-10-2018
 - Naive Bayes Code From Scratch [View Here](https://github.com/pooja2512/100DaysofMLCode/blob/master/Naive%20Bayes.ipynb)
-- Performed webscraping on wikipedia page
+- Performed webscraping on wikipedia page. [View Here](https://github.com/pooja2512/Web-Scraping/blob/master/Wikipedia%20Web%20Scraping.ipynb)
 - Started Deep Learning course from coursera completed week 1.
