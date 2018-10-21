@@ -7,4 +7,4 @@ Logistic Regression Code from Scratch  [View Here](https://github.com/pooja2512/
 Linear Regression Code From Scratch [View Here](https://github.com/pooja2512/100Days-ofMLCode/blob/master/Linear%20Regression/Linear%20Regression.ipynb)
 
 ## Day 3 : 21-10-2018
-Naive Bayes Code From Scratch [View Here]
+Naive Bayes Code From Scratch [View Here](https://github.com/pooja2512/100DaysofMLCode/blob/master/Naive%20Bayes.ipynb)
