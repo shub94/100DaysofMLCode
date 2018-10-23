@@ -10,3 +10,6 @@ Linear Regression Code From Scratch [View Here](https://github.com/pooja2512/100
 - Naive Bayes Code From Scratch [View Here](https://github.com/pooja2512/100DaysofMLCode/blob/master/Naive%20Bayes.ipynb)
 - Performed webscraping on Demographics of India(Wikipedia). [View Here](https://github.com/pooja2512/Web-Scraping/blob/master/Demographics%20of%20India%20Web%20Scraping.ipynb)
 - Started Deep Learning course from coursera completed week 1.
+
+## Day 4 : 23-10-2018
+- Support Vector Machine Code from scratch. View Here
