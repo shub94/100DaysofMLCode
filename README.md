@@ -14,3 +14,6 @@ Linear Regression Code From Scratch [View Here](https://github.com/pooja2512/100
 ## Day 4 : 23-10-2018
 - Support Vector Machine Code from scratch. [View Here](https://github.com/pooja2512/100DaysofMLCode/blob/master/Support%20Vector%20Machine.ipynb)
 - Learned Difference between standardization and minmax scaling [View Here](https://github.com/pooja2512/100DaysofMLCode/blob/master/standardization%20and%20minmax%20scaling.ipynb)
+
+## Day 5 : 24-10-2018
+- Completed week 2 lectures on Deep Learning from coursera.
