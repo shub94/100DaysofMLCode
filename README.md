@@ -18,5 +18,5 @@ Linear Regression Code From Scratch [View Here](https://github.com/pooja2512/100
 ## Day 5 : 24-10-2018
 - Completed week 2 lectures on Deep Learning by coursera.
 
-## Day 6:25-10-2018
+## Day 6 : 25-10-2018
 - Started watching week 3 lectures on Deep Learning by coursera.
