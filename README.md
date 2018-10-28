@@ -24,3 +24,6 @@ Linear Regression Code From Scratch [View Here](https://github.com/pooja2512/100
 ## Day 7 : 26-10-2018
 - Collected total of 18 tables from wikipedia page [View Here](https://github.com/pooja2512/Web-Scraping/blob/master/Demographics%20of%20India.ipynb)
 - Completed watching week 3 lectures on Deep Learning by Coursera.
+
+## Day 8: 27-10-2018
+- Completed watching week 4 lectures on Deep Learning by Coursera and completed assignment of week 3
