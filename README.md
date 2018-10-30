@@ -26,4 +26,10 @@ Linear Regression Code From Scratch [View Here](https://github.com/pooja2512/100
 - Completed watching week 3 lectures on Deep Learning by Coursera.
 
 ## Day 8: 27-10-2018
-- Completed watching week 4 lectures on Deep Learning by Coursera and completed assignment of week 3
+- Completed watching week 4 lectures on Deep Learning by Coursera and completed assignment of week 3.
+
+## Day 9: 29-10-2018
+- Worked on Analysis on Demographics of India.
+
+## Day 10: 30-10-2018
+- Completed Analysis on Demographics of India [View Here](https://github.com/pooja2512/Analysis-on-Demographics-of-India/blob/master/Analysis%20on%20Demographics%20of%20India.ipynb)
